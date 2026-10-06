@@ -12,11 +12,15 @@ Este é um espaço de notas e textos em construção — um caderno aberto, mais
 - Inteligência artificial e Direito
 - Ferramentas, software livre e produtividade acadêmica
 
+## Publicações
+
+Veja a lista dos meus [[publicacoes|artigos e trabalhos publicados]].
+
 ## Contato
 
-- Currículo Lattes: [link]
-- ORCID: [link]
-- E-mail: [lucianoguedes@outlook.com]
+- Currículo Lattes: [lattes.cnpq.br/6210586471292825](http://lattes.cnpq.br/6210586471292825)
+- ORCID: [0000-0003-3699-7191](https://orcid.org/0000-0003-3699-7191)
+- E-mail: [lucianoguedes@outlook.com](mailto:lucianoguedes@outlook.com)
 
 ---
 
