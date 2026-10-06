@@ -1,5 +1,5 @@
 ---
-title: Início
+title: Seja bem-vindo!
 ---
 Sou Luciano Palhano Guedes, Procurador Federal, professor e doutorando em Ciências Humanas e Sociais na UFABC. Mestre em Direito Constitucional pela Universidade de Coimbra.
 
@@ -24,4 +24,7 @@ Este é um espaço de notas e textos em construção — um caderno aberto, mais
 
 ---
 
+### Posts
+
 [[Menor sob Guarda e Dependência Econômica]]
+

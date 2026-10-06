@@ -1,5 +1,5 @@
 ---
-title: O menor sob guarda e a pensão por morte após a EC nº 103/2019
+title: Menor sob Guarda e Dependência Econômica
 date: 2020-07-09
 tags:
   - previdenciário
