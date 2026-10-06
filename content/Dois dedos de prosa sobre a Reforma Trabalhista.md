@@ -1,7 +1,9 @@
 ---
 title: Dois Dedos de Prosa sobre a Reforma Trabalhista
-date: 2017-11-11
+date: 2017-11-11T12:00:00-03:00
 tags:
+  - post
+  - trabalhista
 ---
 *Texto publicado originalmente em 11 de novembro de 2017.*
 

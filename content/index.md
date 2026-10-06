@@ -24,7 +24,20 @@ Este é um espaço de notas e textos em construção — um caderno aberto, mais
 
 ---
 
-### Posts
+## Textos
 
-[[Menor sob Guarda e Dependência Econômica]]
+```base
+filters:
+  and:
+    - file.hasTag("post")
+views:
+  - type: list
+    name: Textos
+    order:
+      - file.name
+      - date
+    sort:
+      - property: date
+        direction: DESC
+```
 
