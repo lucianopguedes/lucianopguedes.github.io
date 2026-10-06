@@ -16,7 +16,7 @@ Este é um espaço de notas e textos em construção — um caderno aberto, mais
 
 - Currículo Lattes: [link]
 - ORCID: [link]
-- E-mail: [endereço]
+- E-mail: [lucianoguedes@outlook.com]
 
 ---
 
