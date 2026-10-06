@@ -5,7 +5,7 @@ tags:
   - post
   - previdenciário
   - interdisciplinaridade
-draft: true
+draft: false
 ---
 
 *Texto escrito em outubro de 2022.*
