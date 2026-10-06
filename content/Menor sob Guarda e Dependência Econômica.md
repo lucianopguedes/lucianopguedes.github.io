@@ -16,11 +16,15 @@ A lei, no entanto, não alterou a redação do § 3º do artigo 33 do ECA, segun
 
 Recentemente, o STJ pacificou a questão no julgamento do Tema 732, firmando a seguinte tese:
 
+> [!quote] STJ, Tema 732 (REsp 1.411.258/RS)
 > O menor sob guarda tem direito à concessão do benefício de pensão por morte do seu mantenedor, comprovada sua dependência econômica, nos termos do art. 33, § 3º do Estatuto da Criança e do Adolescente, ainda que o óbito do instituidor da pensão seja posterior à vigência da Medida Provisória 1.523/96, reeditada e convertida na Lei 9.528/97. Funda-se essa conclusão na qualidade de lei especial do Estatuto da Criança e do Adolescente (8.069/90), frente à legislação previdenciária.
+
 
 O debate, que parecia superado, ressurge com a última "reforma" da Previdência. Isso porque a exclusão do menor sob guarda do rol de dependentes foi constitucionalizada pelo artigo 23, § 6º, da EC nº 103/19:
 
+> [!cite] Estatuto da Cirança e do Adolescente
 > Art. 23 (...) § 6º Equiparam-se a filho, para fins de recebimento da pensão por morte, exclusivamente o enteado e o menor tutelado, desde que comprovada a dependência econômica.
+
 
 Diante desse quadro, é preciso encontrar uma interpretação que, ao mesmo tempo em que preserve a autoridade do dispositivo normativo (cuja inconstitucionalidade, a meu sentir, dificilmente será declarada pelo STF), atente para os direitos constitucionais da criança e do adolescente (art. 227, CF).
 
