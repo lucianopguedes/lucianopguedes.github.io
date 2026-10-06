@@ -21,3 +21,7 @@ Este é um espaço de notas e textos em construção — um caderno aberto, mais
 ---
 
 *As opiniões aqui expressas são pessoais e não representam a posição de qualquer instituição a que eu esteja vinculado.*
+
+---
+
+[[Menor sob Guarda e Dependência Econômica]]
