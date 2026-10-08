@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: pt-BR
-  baseUrl: lucianopguedes.github.io
+  baseUrl: lucianopguedes.com.br
   ignorePatterns:
     - private
     - templates
