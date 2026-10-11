@@ -10,7 +10,6 @@ configuration:
   baseUrl: lucianopguedes.com.br
   ignorePatterns:
     - private
-    - templates
     - rascunhos
     - .obsidian
   theme:
