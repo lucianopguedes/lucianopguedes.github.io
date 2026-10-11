@@ -4,6 +4,7 @@ date: 2017-11-11T12:00:00-03:00
 tags:
   - post
   - trabalhista
+draft: false
 ---
 *Texto publicado originalmente em 11 de novembro de 2017.*
 

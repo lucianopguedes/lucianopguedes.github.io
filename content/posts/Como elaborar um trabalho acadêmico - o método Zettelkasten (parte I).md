@@ -5,6 +5,7 @@ tags:
   - post
 draft: false
 ---
+
 ## Introdução
 
 Todos nós temos dificuldades em transferir ideias do cérebro para uma folha de papel ou para a tela de um computador. Quem nunca se desesperou diante do cursor piscando na tela enquanto o relógio avançava rapidamente rumo ao fim do prazo para entrega daquela atividade ou petição?
